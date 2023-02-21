@@ -1,0 +1,48 @@
+/*Usa nome da tag para referenciar a tag dentro do html*/
+body{
+    background: orange;
+}
+#banner{
+    width: 100%;
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+.centralizado{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+strong{
+    color: red;
+}
+/*Usa # para referenciar marcador dentro do html*/
+#missao{
+    font-size: 20px;
+}
+/*Usa nome das tags para referenciar uma tag dentro da outra tag*/
+em strong{
+    color: blueviolet;
+}
+/*Usa . para referenciar classes*/
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    background: white;
+    padding: 20px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imgbeneficios{
+    width: 50%;
+}
